@@ -5,12 +5,16 @@
 
 # 👋 Hi, I’m @pelavaz 💥
 
-## A passionate Full Stack Developer
+## A passionate Full Stack Developer in process
 
 - 👀 I’m interested in Front End Developement 
 - 🌱 I’m currently learning Full Stack Developement at @Henry
 - 💞️ I’m looking forward to start working as a developer to continue learning
 - 📫 marcoslvazq@gmail.com
+
+Industrial Engineer from ITBA (Buenos Aires, Argentina). I am currently studying Full Stack Development.
+
+I really want to start my career as a developer!!
 
 
 ### Linkedin:
