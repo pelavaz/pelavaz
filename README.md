@@ -1,3 +1,8 @@
+<div align="center">
+    <img src="https://media1.giphy.com/media/MGdfeiKtEiEPS/giphy.gif?cid=ecf05e47lomab9pkehosxy7b7anqk39kyv4r6fnts45mq99k&rid=giphy.gif&ct=g" width="300" height="200" />   
+</div>
+
+
 # 👋 Hi, I’m @pelavaz 💥
 
 ## A passionate Full Stack Developer
